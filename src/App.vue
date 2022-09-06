@@ -21,6 +21,11 @@ export default {
 
 
 
-<style scoped>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oxygen:wght@300&display=swap');
+
+  #app{
+    font-family: 'Bebas Neue', cursive;
+  }
 
 </style>

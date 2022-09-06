@@ -13,30 +13,60 @@
       }
     },
     "interests": ["Jeux Videos", "Pétanque", "Magie Noire", "Coléoptères"],
+
     "skills": [
-      {"id": 2, "name":  "", "level":  5},
-      {"id": 3, "name":  "", "level":  5},
-      {"id": 4, "name":  "", "level":  5},
-      {"id": 5, "name":  "", "level":  5}
+      {
+        "id": 2,
+        "name": "Amère moisson",
+        "effect":"Sapez le vestige de vie qui demeure dans les cadavres pour recevoir 2 Ultimes et récupérer 660 Santé toutes les 1 seconde pendant 2 secondes par cadavre consommé. Cette compétence s'adapte à votre Santé maximale. Tant que cette compétence est présente dans votre barre, les dégâts que vous subissez sont réduits de 3 %",
+        "level": 5
+      },
+      {
+        "id": 3,
+        "name": "Antisort",
+        "effect":"Acceptez le pouvoir de la mort, ce qui vous libère de jusqu'à 4 effets négatifs. Tant que cette compétence est présente dans votre barre, le coût de toutes vos compétences est réduit de 3 %",
+        "level": 5
+      },
+      {
+        "id": 4,
+        "name": "Arcaniste squelette",
+        "effect":"Déterre un mage squelette qui combat à vos côtés pendant 20 secondes. Le mage attaque l'ennemi le plus proche toutes les 2 secondes, et inflige 478 dégâts de Foudre, ainsi qu'aux ennemis autour de lui. Crée un cadavre à sa mort",
+        "level": 5
+      },
+      {
+        "id": 5,
+        "name": "Armure attrayante",
+        "effect":"Vous enveloppe d'os durcis, ce qui vous confère Résolution majeure, qui augmente vos résistances physique et magique de 5948 et 20 secondes. Tant que cette compétence est active, les ennemis qui vous frappent avec des attaques à distance sont attirés vers vous une fois toutes les 2 secondes. Crée un cadavre à la fin de l'effet.",
+        "level": 5
+      }
     ],
     "experience": [
       {
         "id": 10,
-        "job_name":  "Nécromencien",
-        "company":  "Evil Corp",
-        "description":  "orem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet ligula sed fringilla vulputate.",
-        "city": "Lille",
-        "start_year": 1628,
-        "end_year": 1789
+        "job_name":  "Chauffeur de salle",
+        "company":  "TPMP",
+        "description":  "En charge de détendre et de faire réagir le public assistant à l'enregistrement de l'émission de télévision TPMP malgré leur humour.",
+        "city": "Paris",
+        "start_year": 2010,
+        "end_year": 2022
       },
       {
         "id": 11,
-        "job_name":  "Nécromencien",
-        "company":  "Evil Corp",
-        "description":  "orem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet ligula sed fringilla vulputate.",
-        "city": "Lille",
-        "start_year": 1628,
-        "end_year": 1789
+        "job_name":  "Nettoyeur d'écran",
+        "company":  "Kinepolis",
+        "description":  "En charge des nettoyer, d'entretenir et d'allumer les écrans à chaque projection dans les 229 salles du cinéma.",
+        "city": "Lomme",
+        "start_year": 1997,
+        "end_year": 2009
+      },
+      {
+        "id": 12,
+        "job_name":  "Développeur Front-End",
+        "company":  "Apple",
+        "description":  "Essaye de créer un site web avec HTML, CSS et JavaScript.",
+        "city": "Cupertino",
+        "start_year": 1980,
+        "end_year": 1996
       }
     ],
     "school": [
