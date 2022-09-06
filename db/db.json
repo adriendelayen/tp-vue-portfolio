@@ -1,0 +1,58 @@
+{
+    "profile": {
+      "firstname": "Jean Michel",
+      "lastname": "La TOuRtE",
+      "phone": "06 66 66 66 00" ,
+      "job": "Mage Noir",
+      "address": {
+        "id": 2,
+        "number": 123,
+        "street": "Rue des Fleurs",
+        "city": "Lille",
+        "zipcode": 59100
+      }
+    },
+    "interests": ["Jeux Videos", "Pétanque", "Magie Noire", "Coléoptères"],
+    "skills": [
+      {"id": 2, "name":  "", "level":  5},
+      {"id": 3, "name":  "", "level":  5},
+      {"id": 4, "name":  "", "level":  5},
+      {"id": 5, "name":  "", "level":  5}
+    ],
+    "experience": [
+      {
+        "id": 10,
+        "job_name":  "Nécromencien",
+        "company":  "Evil Corp",
+        "description":  "orem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet ligula sed fringilla vulputate.",
+        "city": "Lille",
+        "start_year": 1628,
+        "end_year": 1789
+      },
+      {
+        "id": 11,
+        "job_name":  "Nécromencien",
+        "company":  "Evil Corp",
+        "description":  "orem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet ligula sed fringilla vulputate.",
+        "city": "Lille",
+        "start_year": 1628,
+        "end_year": 1789
+      }
+    ],
+    "school": [
+      {
+        "id": 200,
+        "name": "",
+        "city": "",
+        "start_year": 1200,
+        "end_year": 1300
+      },
+      {
+        "id": 203,
+        "name": "",
+        "city": "",
+        "start_year": 1200,
+        "end_year": 1300
+      }
+    ]
+  }
